@@ -7,7 +7,7 @@ Estructura del Repositorio:
 
 /DATASET/: Contiene los datos utilizados para entrenar y probar los modelos.
 
-/ANALISI/: Scripts de analisis inicial con los graficos.
+/ANALISIS/: Scripts de analisis inicial con los graficos.
 
 /LSTM/: Scripts modelo LSTM.
 
