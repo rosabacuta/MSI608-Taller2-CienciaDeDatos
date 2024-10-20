@@ -1,4 +1,4 @@
-markdown
+ 
 #Predictive Model for Diagnosis-Related Group (DRG) Classification in Patients in Chile: An Approach Based on Diagnostic Information and Medical Procedures 
 
 Este repositorio contiene los scripts, datos, y el paper en inglés utilizados para desarrollar y comparar modelos predictivos (LSTM , TRANSFORMERS)  para estimar el Grupo Relacionado de Diagnóstico (GRD) 
